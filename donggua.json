@@ -1,0 +1,16 @@
+{
+  "sites": [
+    {
+      "key": "unique_key1",       
+      "name": "🎬-爱奇艺-",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "unique_key2",
+      "name": "🎬天涯影视",
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "active": true
+    }
+  ]
+}
